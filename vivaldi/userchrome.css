@@ -1,0 +1,7 @@
+.UrlField {
+    font-family: 'Fira Mono', 'Consolas', monospace;
+}
+
+input.UrlBar-UrlField.url.vivaldi-addressfield.uifocusstop {
+    font-family: 'Fira Mono', 'Consolas', monospace !important;
+}
