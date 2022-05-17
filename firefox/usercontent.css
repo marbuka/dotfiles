@@ -1,0 +1,10 @@
+@-moz-document url-prefix(about:reader) {
+    body.sans-serif {
+        font-family: "Segoe UI", sans-serif !important;
+    }
+    
+    body.serif {
+        font-family: "Sitka Text", serif !important;
+    }
+
+}
