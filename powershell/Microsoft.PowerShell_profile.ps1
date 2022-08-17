@@ -1,0 +1,1 @@
+C:/Users/marek/OneDrive - Uniwersytet Łódzki/Dokumenty/PowerShell/Microsoft.PowerShell_profile.ps1

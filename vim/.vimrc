@@ -1,0 +1,1 @@
+C:/Users/marek/vimfiles/vimrc
